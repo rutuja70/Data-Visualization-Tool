@@ -1,1 +1,6 @@
-streamlit --library 
+streamlit 
+pandas 
+altair 
+Image
+matplotlib.pyplot 
+plotly.express 
